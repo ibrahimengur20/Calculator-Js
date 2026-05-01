@@ -1,23 +1,21 @@
-# 🧮 Calculator Project
-
 Bu proje HTML ve JavaScript kullanılarak yapılmış basit bir hesap makinesidir.
 
-## 🚀 Özellikler
+Özellikler
 - Toplama işlemi
 - Çıkarma işlemi
 - Çarpma işlemi
 - Bölme işlemi
 - Kullanıcıdan iki sayı alıp sonucu ekranda gösterme
 
-## 🛠️ Kullanılan Teknolojiler
+Kullanılan Teknolojiler
 - HTML
 - JavaScript (DOM manipulation)
 
-## 🎯 Amaç
+Amaç
 Bu proje JavaScript temel mantığını öğrenmek için yapılmıştır:
 - Fonksiyonlar
 - DOM kullanımı
 - Basit matematik işlemleri
 
-## 📌 Not
+Not
 CSS kullanılmamıştır. Odak JavaScript mantığıdır.
